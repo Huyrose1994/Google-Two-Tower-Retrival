@@ -21,3 +21,5 @@
 - A candidate model computing the candidate representation (an equally-sized vector) using the candidate features
     - Outputs of the 2 models are then multiplied together
     - Give a query-candidate affinity score
+
+2. Ranking Stage
